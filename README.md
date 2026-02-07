@@ -1,14 +1,59 @@
 # THU-CST-ICP-2024spring
 
-计算机程序设计基础（c语言）
-这门课难度不高，注重讲程序设计思想，还介绍了c语言多文件组织、宏、命令行参数等知识点，是笔者作为一个非计算机系的编程小白（之前对写代码一无所知）入门编程的第一门课，
+**Fundamentals of Computer Programming (C Language)**
 
-## Exam
-3次笔试，涉及非常多语法细节，会有算法思路附加题
+This is a comprehensive course repository for Tsinghua University's "Fundamentals of Computer Programming" course. The course focuses on programming concepts and covers C language multi-file organization, macros, command-line arguments, and more.
 
-## PA
-10次OJ，注重语法
+As a non-CS major student with no prior programming experience, this was my introductory programming course.
 
-## Project
-是本人第一个项目，使用EasyX作为UI界面，代码风格非常有待改进。见仓库
-[UNO-card-game-EasyX](https://github.com/wannabeyourfriend/UNO-card-game-EasyX)
+## Course Overview
+
+This course emphasizes programming design principles over complex algorithms. It serves as an excellent starting point for beginners looking to build a strong foundation in computer programming.
+
+## Course Structure
+
+### Exams
+- **Format**: 3 written examinations
+- **Content**: Heavy emphasis on C language syntax details
+- **Additional**: Algorithm design bonus questions
+
+### Programming Assignments (PA)
+- **Quantity**: 10 Online Judge (OJ) assignments
+- **Focus**: Syntax mastery and practical implementation
+- **Platform**: Online Judge system
+
+### Course Project
+- **Description**: First complete programming project
+- **Technology**: EasyX graphics library for UI
+- **Repository**: [UNO-card-game-EasyX](https://github.com/wannabeyourfriend/UNO-card-game-EasyX)
+
+> **Note**: The code style in the project repository reflects early programming work and would benefit from refactoring based on current best practices.
+
+## Learning Resources
+
+- **Language**: C (primary language)
+- **Tools**: GCC compiler, EasyX graphics library
+- **Topics Covered**:
+  - Basic C syntax and data types
+  - Control structures and functions
+  - Arrays and pointers
+  - Multi-file program organization
+  - Macros and preprocessor directives
+  - Command-line argument handling
+
+## Course Outcomes
+
+By the end of this course, students will:
+- Understand fundamental programming concepts
+- Be proficient in C language syntax
+- Be able to organize multi-file projects
+- Have practical experience with graphics programming
+- Developed problem-solving skills through algorithm implementation
+
+## License
+
+This repository contains course materials and assignments. Please refer to individual files for specific licensing information.
+
+## Contact
+
+For questions or discussions about course materials, please open an issue in this repository.
